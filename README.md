@@ -9,7 +9,7 @@
 ✔ Callme: ***Ankur Singhal*** or ***TeamWorker*** 😊 <br>
 <!-- ✔ 🔭 I’m currently working on [Meraki](https://github.com/navgurukul/sansaar)<br> -->
 ✔ 🌱 I’m currently learning **everything 🤣**<br>
-✔ 👨‍💻 All of my projects are available at [https://github.com/surajkumar70](https://github.com/AnkurSinghal27)<br>
+✔ 👨‍💻 All of my projects are available at [https://github.com/AnkurSinghal27]<br>
 <!-- ✔ 📝 I regularly write articles on [https://medium.com/@vishalmajumdar95](https://medium.com/@vishalmajumdar95)<br> -->
 ✔ 📫 How to reach me **singhal27ankur@gmail.com**<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
